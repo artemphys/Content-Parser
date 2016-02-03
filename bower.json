@@ -1,0 +1,17 @@
+{
+  "name": "Content-Parser",
+  "version": "1.0.0",
+  "description": "",
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/js/"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "jquery": "~1.9.1",
+    "angular-material": "^1.0.4"
+  }
+}
