@@ -5,14 +5,14 @@
   "license": "",
   "repository": {},
   "devDependencies": {
-
     "bower": "^1.5.3",
     "grunt": "^0.4.5",
-    "lodash": "^3.10.1",
-    "q": "^1.4.1",
     "gulp": "^3.9.0",
     "gulp-ng-annotate": "^1.1.0",
-    "gulp-webserver": "^0.9.1"
+    "gulp-webserver": "^0.9.1",
+    "lodash": "^3.10.1",
+    "q": "^1.4.1",
+    "ytdl-core": "^0.7.9"
   },
   "dependencies": {},
   "engines": {

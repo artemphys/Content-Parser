@@ -2,6 +2,8 @@
  * Created by Artem_Timoshenko on 2/2/2016.
  */
 
+var UTubeDL = require('components/YouTubeDownloader/UTubeDl');
+
 (function() {
     "use strict";
 
@@ -9,6 +11,7 @@
         .controller("parserCtrl", parserCtrl);
 
     function youtubeDL() {
+        UTubeDL();
     }
 
     function youTubeInput() {
